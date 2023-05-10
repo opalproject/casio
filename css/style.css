@@ -16,7 +16,7 @@ body{
     flex-wrap: wrap;
     justify-content: space-around;
     gap: 22px 12px;
-    margin: 49px 0 31px 0;
+    margin: 31px 0 31px 0;
 }
 
 .header__menu-ul{
@@ -69,14 +69,7 @@ p{
    
     align-items: center;
     padding-left: 12px;
-    padding-top: 91px;
-}
-.main-content__right-side{
-}
-
-.main-content__watch-image{
-    width: 493.19px;
-    height: 500.95px;
+    padding-right: 12px;
 }
 
 .main-content__color-bar-ul{
@@ -85,8 +78,9 @@ p{
     flex-direction: row;
     flex-wrap: nowrap;
     align-items: center;
-    gap: 13px;  
+    gap: 13px; 
 
+    margin-bottom: 49px;
 }
 
 .main-content__color-bar-li{
